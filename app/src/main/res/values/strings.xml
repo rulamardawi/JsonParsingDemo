@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonParsingDemo</string>
+    <string name="title_activity_success">success</string>
+</resources>
